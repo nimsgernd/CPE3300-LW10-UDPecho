@@ -14,6 +14,7 @@
 
 // Max message to echo
 #define MAX_MESSAGE     (int)       1000
+
 #define LAB_BROADCAST   (in_addr_t) 0xC0A818FF
 #define HOME_BROADCAST  (in_addr_t) 0xC0A801FF
 
